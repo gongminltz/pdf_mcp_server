@@ -17,3 +17,7 @@ Operating Steps:
         }
     }
 }
+
+使用示例：
+1 将多个pdf文件合并为一个pdf文件：合并e:/1.pdf和e:2.pdf，保存到e:/3.pdf
+2 提取 PDF 文件中指定的若干页面：请提取 e:/AQA-AS Math PSM.pdf文件的第10到第20页，以及第23页，第30-35页，保存到e:/2.pdf
